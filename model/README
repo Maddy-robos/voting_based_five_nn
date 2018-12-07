@@ -1,0 +1,2 @@
+This folder contains a pre-trained Tensorflow Neural Network model with the specified constraints in the NNModel python file.
+This model can be used to restore and test using the use_model_test python file.
