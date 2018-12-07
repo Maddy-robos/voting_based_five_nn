@@ -7,4 +7,6 @@ This is my first tensorflow kernel that is a small basic project. The goal of th
 
 For more details explanation of the primary python code, refer [this link](https://www.kaggle.com/madhavan93/voting-based-salient-object-detection?scriptVersionId=8175537)
 
+The images that I have used for testing and creation of the model is attached in the following [link](https://drive.google.com/open?id=13PpabXPOuAB-QLqDVQ4oqlW5ZxWDGeZC).
+
 Feel free to comment for more details
